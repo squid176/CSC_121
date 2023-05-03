@@ -1,0 +1,5 @@
+﻿  Batting_Average.cpp
+C:\Users\Sean\Desktop\Coding\Batting_Averages\Batting_Averages\Batting_Average.cpp(12,39): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  EndUserDriver.cpp
+  Generating Code...
+  Batting_Averages.vcxproj -> C:\Users\Sean\Desktop\Coding\Batting_Averages\x64\Debug\Batting_Averages.exe
